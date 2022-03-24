@@ -1,2 +1,2 @@
-# jimmy_development
+# my_package
 Flutter Development Plaza
