@@ -1,4 +1,4 @@
-import 'package:jimmy_development/common_package.dart';
+import 'package:jimmy_development/my_package.dart';
 import 'package:flutter/material.dart';
 
 class CustomToggleSwitch extends StatelessWidget {
